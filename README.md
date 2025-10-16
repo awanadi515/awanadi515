@@ -21,7 +21,6 @@ I focus on writing **clean, maintainable, and scalable code** while delivering *
 <p align="left">
   <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="mailto:iadilsaleem01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/awanadi515"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
 ---
