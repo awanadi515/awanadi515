@@ -25,7 +25,7 @@ I focus on writing **clean, maintainable, and scalable code** while delivering *
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,postman,vscode,figma,mysql,sqlite,aws,graphql,kotlin,laravel,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,postman,vscode,figma,mysql,sqlite,graphql,kotlin,laravel,html,css,bootstrap,tailwind" />
 </p>
 
 ---
