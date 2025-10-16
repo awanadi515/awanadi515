@@ -19,7 +19,7 @@ I focus on writing **clean, maintainable, and scalable code** while delivering *
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"style="margin: 0 4px;"/></a>
   <a href="mailto:iadilsaleem01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
