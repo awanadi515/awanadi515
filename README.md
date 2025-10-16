@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adil Saleem</h1>
 <h3 align="center">🚀 Mobile Application Developer | Flutter Specialist</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:iadilsaleem01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/awanadi515" target="_blank"><img src="https://img.shields.io/github/followers/awanadi515?label=Follow&style=social" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -23,33 +17,18 @@ I focus on writing **clean, maintainable, and scalable code** while delivering *
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,postman,vscode,figma,mysql,sqlite,graphql,kotlin,laravel,html,css,bootstrap,tailwind" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=awanadi515&theme=radical" />
-</p>
-
----
-
-### 💡 Highlights
-- 🚀 Developed and deployed multiple cross-platform apps with real-time updates and modern UI  
-- 🔐 Integrated secure payment gateways (Stripe, PayPal, Apple Pay, etc.)  
-- ☁️ Experienced with cloud integrations (Firebase, AWS S3, Push Notifications)  
-- 🧩 Implemented modular structures with maintainable codebases for scaling products  
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="mailto:iadilsaleem01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://github.com/awanadi515"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,git,github,postman,vscode,figma,mysql,sqlite,graphql,kotlin,laravel,html,css,bootstrap,tailwind" />
 </p>
 
 ---
