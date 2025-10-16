@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/adilsaleem1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:iadilsaleem01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/awanadi515" target="_blank"><img src="https://img.shields.io/github/followers/adilawan?label=Follow&style=social" /></a>
+  <a href="https://github.com/awanadi515" target="_blank"><img src="https://img.shields.io/github/followers/awanadi515?label=Follow&style=social" /></a>
 </p>
 
 ---
